@@ -7,7 +7,7 @@ import { getBubbleSortAnimations } from "../algorithms/BubbleSort";
 
 const ARR_LEN = 200;
 const MIN_NUM = 5;
-const MAX_NUM = 700;
+const MAX_NUM = 500;
 const DELAY = 2;
 const ACCESSED_COLOUR = "crimson";
 const SORTED_COLOUR = "orange";
